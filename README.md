@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Korede, @KoredeOmotolola
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence 
 - 🌱 I’m currently taking a course on Data Science, Machine Learning and Deep Learning with Python. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Linkedin: Korede Omotolola 
+- 📫 How to reach me ... Linkedin: Korede Omotolola, 
 Twitter @rk_omotolola 
 
 <!---
